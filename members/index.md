@@ -60,7 +60,7 @@ Mail: 11153012@mail.ntou.edu.tw
 {%
   include feature.html
   image="images/photo.jpg"
-  title="陳建謀"
+  title="陳建謀 Jian-Mou Chen"
   text=text
 %}
 
@@ -81,14 +81,14 @@ Mail: 11153087@mail.ntou.edu.tw
 {% capture text %}
 年級: 碩一  
 
-Mail: 00853118@mail.ntou.edu.tw
+Mail: michael0922851688@gmail.com
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  title="蘇冠楷"
+  title="蘇冠楷 Guan-Kai Su"
   text=text
 %}
 
