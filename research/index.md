@@ -1,27 +1,65 @@
 ---
 title: Research
 nav:
-  order: 1
+  order: 2
   tooltip: Published works
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Control of Multi-Agent System 多代理人系統控制
 
-{% include section.html %}
+{% capture text %}
+Cooperative Control of MAS  
 
-## Highlighted
+Formation Control of UAVs  
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+Multi-UAV System Design and Applications  
 
-{% include section.html %}
+Nonlinear and Adaptive Control Theory
 
-## All
+{% endcapture %}
+{%
+  include feature.html
+  image="images/UAV.jpg"
+  title=""
+  flip=true
+  text=text
+%}
 
-{% include search-box.html %}
 
-{% include search-info.html %}
+## Development of Unmanned Vehicle System 無人載具系統發展
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% capture text %}
+Robot Operating System (ROS)  
+
+Automated Driving System (ADS)  
+
+Autonomous Moving Robot (AMR)
+
+{% endcapture %}
+{%
+  include feature.html
+  image="images/AD.jpg"
+  title=""
+  flip=true
+  text=text
+%}
+
+## Rinforcement Learning Control and Its Applications 強化學習控制與應用
+
+{% capture text %}
+Reinforcement Learning Control  
+
+Actor-Critic Neural Network  
+
+Deep Reinforcement Learning Control and Applications
+
+{% endcapture %}
+{%
+  include feature.html
+  image="images/RL.jpg"
+  title=""
+  flip=true
+  text=text
+%}
