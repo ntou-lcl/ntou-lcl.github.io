@@ -46,7 +46,7 @@ Mail: 11053035@mail.ntou.edu.tw
 {%
   include feature.html
   image="images/photo.jpg"
-  title="洪于策"
+  title="洪于策 Yu-Tse Hung"
   text=text
 %}
 
