@@ -9,17 +9,15 @@ nav:
 
 ## 著作目錄: 期刊論文
 1.	Yu-Wen Chen, Ming-Li Chiang, and Li-Chen Fu (2022, Jul) Three-Dimensional Maneuver Control of Multiagent Systems with Constrained Input, IEEE Transactions on Cybernetics. (SCI, Rank 1/63, automation and control) DOI:10.1109/TCYB.2022.3165767
-
-2.	Ming-Li Chiang, Yu-Wen Chen, Chin-Sheng Chen, Shun-Hung Tsai, “Distributed Formation Control of Multiagent Systems with Speciﬁed Order” in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 52, no. 1, pp. 301-310, Jan. 2022. (SCI, Automation & control systems, Rank: 1/63, (1%))
-3.	 Ming-Li Chiang, Shun-Hung Tsai, Cheng-Ming Huang, Kuang-Tin Tao, “Adaptive Visual Servoing for Obstacle Avoidance of Micro Unmanned Aerial Vehicle with Optical Flow and Switched System Model,” Processes, vol. 9, no. 12, 2021. (SCI)
-4.	 A. Pietrabissa, A. Di Giorgio, G. Oddi, G. Chini, Ming-Li Chiang, C. Poli, “Cooperative receding horizon strategies for the multivehicle routing problem,” Optimal Control Applications and Methods, 2018 (SCI, Rank: 36/60, Automation & control systems)
-5.	 Cheng-Ming Huang, Ming-Li Chiang, and Tzu-Shun Hung “Visual Servoing of a Micro Quadrotor Landing on a Ground Platform,” International Journal of Control, Automation and Systems, 2017 (SCI, Rank: 32/60, Automation & control systems)
-6.	 Ming-Li Chiang and Li-Chen Fu, “Adaptive stabilization of a class of uncertain switched nonlinear systems with backstepping control,” Automatica, vol. 50, no.8, pp. 2128 -2135, Aug. 2014. (SCI, rank: 03/60, Automation and control ) 
-7.	 Jim-Wei Wu, Jyun-Jhih Chen, Ming-Li Chiang, Jen-te Yu, Li-Chen Fu, “Design and control of phase-detection mode atomic force microscopy for reconstruction of cell contours in three-dimensions,” IEEE Transactions on Nanotechnology, vol. 13, no. 4, pp. 639 -649, Jul. 2014. (SCI)
-8.	Ming-Li Chiang and Li-Chen Fu, “Robust output feedback stabilization of switched nonlinear systems with average dwell time,” Asian Journal of Control, vol. 16, no. 1, pp. 264-276, Mar. 2014. (SCI)
-
-9.	 Jim-Wei Wu, Kuan-Chia Huang, Ming-Li Chiang, Mei-Yung Chen, and Li-Chen Fu, “Modeling and Controller Design of a Precision Hybrid Scanner for Application in Large Measurement-Range Atomic Force Microscopy,” IEEE Transactions on Industrial Electronics, vol. 61, no. 7, pp. 3704 -3712, Jul. 2014. (SCI, rank: 04/60, automation and control)
-10.	 Shao-Kang Hung, Chiao-Hua Cheng, Ming-Li Chiang, and Jih-Wei Chieh,  “Transforming an Optical Pick-up-Head into an Accelerometer With Ultra High Sensitivity,” IEEE Transactions on Instrumentation and Measurement, vol. 63, no. 3, pp. 687 – 693, Mar. 2014. (SCI)
+2.	Ming-Li Chiang, Yu-Wen Chen, Chin-Sheng Chen, Shun-Hung Tsai, “Distributed Formation Control of Multiagent Systems with Speciﬁed Order” in ***IEEE Transactions on Systems, Man, and Cybernetics: Systems****, vol. 52, no. 1, pp. 301-310, Jan. 2022. (SCI, Automation & control systems, Rank: **1/63**, (1%))
+3.	 Ming-Li Chiang, Shun-Hung Tsai, Cheng-Ming Huang, Kuang-Tin Tao, “Adaptive Visual Servoing for Obstacle Avoidance of Micro Unmanned Aerial Vehicle with Optical Flow and Switched System Model,” ***Processes****, vol. 9, no. 12, 2021. (SCI)
+4.	 A. Pietrabissa, A. Di Giorgio, G. Oddi, G. Chini, Ming-Li Chiang, C. Poli, “Cooperative receding horizon strategies for the multivehicle routing problem,” ***Optimal Control Applications and Methods***, 2018 (SCI, Rank: **36/60**, Automation & control systems)
+5.	 Cheng-Ming Huang, Ming-Li Chiang, and Tzu-Shun Hung “Visual Servoing of a Micro Quadrotor Landing on a Ground Platform,” ***International Journal of Control, Automation and Systems****, 2017 (SCI, Rank: **32/60**, Automation & control systems)
+6.	 Ming-Li Chiang and Li-Chen Fu, “Adaptive stabilization of a class of uncertain switched nonlinear systems with backstepping control,” ***Automatica****, vol. 50, no.8, pp. 2128 -2135, Aug. 2014. (SCI, rank: **03/60**, Automation and control ) 
+7.	 Jim-Wei Wu, Jyun-Jhih Chen, Ming-Li Chiang, Jen-te Yu, Li-Chen Fu, “Design and control of phase-detection mode atomic force microscopy for reconstruction of cell contours in three-dimensions,” ***IEEE Transactions on Nanotechnology****, vol. 13, no. 4, pp. 639 -649, Jul. 2014. (SCI)
+8.	Ming-Li Chiang and Li-Chen Fu, “Robust output feedback stabilization of switched nonlinear systems with average dwell time,” ***Asian Journal of Control****, vol. 16, no. 1, pp. 264-276, Mar. 2014. (SCI)
+9.	 Jim-Wei Wu, Kuan-Chia Huang, Ming-Li Chiang, Mei-Yung Chen, and Li-Chen Fu, “Modeling and Controller Design of a Precision Hybrid Scanner for Application in Large Measurement-Range Atomic Force Microscopy,” ***IEEE Transactions on Industrial Electronics****, vol. 61, no. 7, pp. 3704 -3712, Jul. 2014. (SCI, rank: **04/60**, automation and control)
+10.	 Shao-Kang Hung, Chiao-Hua Cheng, Ming-Li Chiang, and Jih-Wei Chieh,  “Transforming an Optical Pick-up-Head into an Accelerometer With Ultra High Sensitivity,” ***IEEE Transactions on Instrumentation and Measurement***, vol. 63, no. 3, pp. 687 – 693, Mar. 2014. (SCI)
     
 ## 著作目錄: 國際會議論文
 
