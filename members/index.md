@@ -74,7 +74,7 @@ Mail: 11153087@mail.ntou.edu.tw
 {%
   include feature.html
   image="images/photo.jpg"
-  title="曾聖雅"
+  title="曾聖雅 Sheng-Ya Tseng"
   text=text
 %}
 
