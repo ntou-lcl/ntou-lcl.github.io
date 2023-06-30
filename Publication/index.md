@@ -5,9 +5,9 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %} 發表論文著作目錄及執行研究計畫目錄
+# {% include icon.html icon="fa-solid fa-microscope" %} Publication
 
-## 著作目錄: 期刊論文
+## Journal Paper
 1.	Yu-Wen Chen, <u>Ming-Li Chiang</u>, and Li-Chen Fu (2022, Jul) Three-Dimensional Maneuver Control of Multiagent Systems with Constrained Input, IEEE Transactions on Cybernetics. (SCI, Rank 1/63, automation and control) DOI:10.1109/TCYB.2022.3165767
 2.	<u>Ming-Li Chiang</u>, Yu-Wen Chen, Chin-Sheng Chen, Shun-Hung Tsai, “Distributed Formation Control of Multiagent Systems with Speciﬁed Order” in ***IEEE Transactions on Systems, Man, and Cybernetics: Systems***, vol. 52, no. 1, pp. 301-310, Jan. 2022. (SCI, Automation & control systems, Rank: **1/63**, (1%))
 3.	 <u>Ming-Li Chiang</u>, Shun-Hung Tsai, Cheng-Ming Huang, Kuang-Tin Tao, “Adaptive Visual Servoing for Obstacle Avoidance of Micro Unmanned Aerial Vehicle with Optical Flow and Switched System Model,” ***Processes***, vol. 9, no. 12, 2021. (SCI)
@@ -19,7 +19,7 @@ nav:
 9.	 Jim-Wei Wu, Kuan-Chia Huang, <u>Ming-Li Chiang</u>, Mei-Yung Chen, and Li-Chen Fu, “Modeling and Controller Design of a Precision Hybrid Scanner for Application in Large Measurement-Range Atomic Force Microscopy,” ***IEEE Transactions on Industrial Electronics***, vol. 61, no. 7, pp. 3704 -3712, Jul. 2014. (SCI, rank: **04/60**, automation and control)
 10.	 Shao-Kang Hung, Chiao-Hua Cheng, <u>Ming-Li Chiang</u>, and Jih-Wei Chieh,  “Transforming an Optical Pick-up-Head into an Accelerometer With Ultra High Sensitivity,” ***IEEE Transactions on Instrumentation and Measurement***, vol. 63, no. 3, pp. 687 – 693, Mar. 2014. (SCI)
     
-## 著作目錄: 國際會議論文
+## Conference Paper
 
 1.	Yu-Wen Chen, <u>Ming-Li Chiang</u>*, Li-Chen Fu, Adaptive Formation Control for Multiple Quadrotors with Nonlinear Uncertainties Using Lipschitz Neural NetworkFormation Control with Orientation Alignment and Constrained Input, 2023 International Federation of Automatic Control (IFAC-WC 2020, Yokohama Japan)
 2.	Kuan-Yu Su, <u>Ming-Li Chiang</u>, Chih-Wei Chen, Li-Chen Fu (2021, Nov). Three-Dimensional Distributed Maneuver Control of Multi-Agent Systems with Double Integrator Model. in *Proc. CACS International Automatic Control Conference* (*CACS Best Student Paper Award*). MOST 110-2221-E-029-028. 
