@@ -23,7 +23,9 @@ nav:
 
 辦公室: 電機2館 620室
 
-電話: +886-2-2462-2192 ext 6205
+電話: +886-2-2462-2192 ext 6205  
+
+email: mingli@mail.ntou.edu.tw
 {% endcapture %}
 
 {%
