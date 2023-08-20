@@ -11,11 +11,13 @@ nav:
 {% include section.html %}
 
 {% capture text %}
-助理教授  
+助理教授(Assistant Professor)  
 
-國立臺灣大學電機工程學系博士  
+國立臺灣大學電機工程學系博士(Ph.D. in Electrical Engineering, National Taiwan University)  
 
-專長:  控制工程、非線性系統、強化學習、多代理人系統  
+專長:  控制工程、非線性系統、強化學習、多代理人系統 (Expertise: Control Engineering, Nonlinear Systems, Reinforcement Learning, Multi-Agent Systems) 
+
+Office:EE2 R620
 
 Phone:(02)24622192 ext 6205  
 
