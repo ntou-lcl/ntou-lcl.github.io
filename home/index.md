@@ -11,6 +11,9 @@ nav:
 
 本實驗室主要著重於控制工程領域之研究，包含無人載具系統控制與多代理人系統協同合作控制以及強化學習控制
 
+Welcome to the Learning Control Laboratory of the Department of Electrical Engineering, National Taiwan Ocean University.
+
+This laboratory primarily focuses on research in the field of control engineering, including unmanned vehicle system control, multi-agent system cooperative control, and reinforcement learning control.
 {% include section.html %}
 
 
