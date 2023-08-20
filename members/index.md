@@ -97,6 +97,48 @@ Mail: michael0922851688@gmail.com
   text=text
 %}
 
+{% capture text %}
+年級: 碩一  
+
+Mail: 11253010@mail.ntou.edu.tw
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="李政霖 Zheng-Lin Li"
+  text=text
+%}
+
+{% capture text %}
+年級: 碩一  
+
+Mail: 11253037@mail.ntou.edu.tw
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="楊啓宏 Qi-Hong Yang"
+  text=text
+%}
+
+{% capture text %}
+年級: 碩一  
+
+Mail: 11253039@mail.ntou.edu.tw
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="江育翰 Yu-Han Jiang"
+  text=text
+%}
+
 {% capture content %}
 
 
