@@ -27,6 +27,24 @@ email: mingli@mail.ntou.edu.tw
 實驗室位置: 電機2館 411室  
 
 電話: +886-2-2462-2192 ext 6245
+
+**Principal Investigator**
+
+Professor Ming-Li Chiang
+
+Office: Room 620, Electrical Engineering Building II
+
+Phone: +886-2-2462-2192 ext 6205
+
+Email: mingli@mail.ntou.edu.tw
+
+**Contact Information**
+
+Address: No. 2, Beining Road, Zhongzheng District, Keelung City, 202301, Taiwan (R.O.C.), Electrical Engineering Building II
+
+Laboratory Location: Room 411, Electrical Engineering Building II
+
+Phone: +886-2-2462-2192 ext 6245
 {% endcapture %}
 
 {%
