@@ -2,7 +2,7 @@
 title: Home
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Homepage
 ---
 
 # NTOU Learning Control Lab
