@@ -149,7 +149,7 @@ Mail: 11253107@mail.ntou.edu.tw
 {%
   include feature.html
   image="images/photo.jpg"
-  title="蔡宗佑 "
+  title="蔡宗佑 Zong-You Cai"
   text=text
 %}
 
