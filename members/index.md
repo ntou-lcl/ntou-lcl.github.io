@@ -139,6 +139,34 @@ Mail: 11253039@mail.ntou.edu.tw
   text=text
 %}
 
+{% capture text %}
+年級: 碩一  
+
+Mail: 11253107@mail.ntou.edu.tw
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="蔡宗佑 "
+  text=text
+%}
+
+{% capture text %}
+年級: 碩一  
+
+Mail: @mail.ntou.edu.tw
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="陳柏帆 "
+  text=text
+%}
+
 {% capture content %}
 
 
